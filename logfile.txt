@@ -1,0 +1,228 @@
+"Oct 21, 2018 10:50:30 PM util.FileUtil saveLog
+INFORMACIÓN: error October 21, 2018GGG!!
+""Oct 21, 2018 10:51:06 PM util.FileUtil saveLog
+ADVERTENCIA: error October 21, 2018GGG!!
+""Oct 21, 2018 10:55:47 PM util.LogUtil save
+INFORMACIÓN: GGG!!
+""Oct 21, 2018 10:55:47 PM util.LogUtil save
+ADVERTENCIA: GGG!!
+""Oct 21, 2018 10:58:09 PM util.LogUtil save
+INFORMACIÓN: logeando info...
+""Oct 21, 2018 10:58:09 PM util.LogUtil save
+ADVERTENCIA: codigo en prueba
+""Oct 21, 2018 11:09:10 PM util.LogUtil save
+INFORMACIÓN: logeando info...
+"
+"Oct 21, 2018 11:09:10 PM util.LogUtil save
+ADVERTENCIA: codigo en prueba
+""Oct 21, 2018 11:43:49 PM util.LogUtil save
+INFORMACIÓN: logeando info...
+""Oct 21, 2018 11:43:50 PM util.LogUtil save
+ADVERTENCIA: codigo en prueba
+""Oct 21, 2018 11:43:50 PM util.LogUtil save
+GRAVE: No suitable driver found for jdbc:null://localhost:3306/bellatrix
+""Oct 21, 2018 11:44:12 PM util.LogUtil save
+INFORMACIÓN: logeando info...
+""Oct 21, 2018 11:44:12 PM util.LogUtil save
+ADVERTENCIA: codigo en prueba
+""Oct 21, 2018 11:44:13 PM util.LogUtil save
+GRAVE: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'db, INFO)' at line 1
+""Oct 21, 2018 11:45:11 PM util.LogUtil save
+INFORMACIÓN: logeando info...
+""Oct 21, 2018 11:45:12 PM util.LogUtil save
+ADVERTENCIA: codigo en prueba
+""Oct 21, 2018 11:45:13 PM util.LogUtil save
+GRAVE: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'db, INFO)' at line 1
+""Oct 21, 2018 11:47:12 PM util.LogUtil save
+INFORMACIÓN: logeando info...
+""Oct 21, 2018 11:47:12 PM util.LogUtil save
+ADVERTENCIA: codigo en prueba
+""Oct 21, 2018 11:48:27 PM util.LogUtil save
+INFORMACIÓN: logeando info...
+""Oct 21, 2018 11:48:27 PM util.LogUtil save
+ADVERTENCIA: codigo en prueba
+""sep 28, 2019 11:11:47 AM util.LogUtil save
+INFORMACIÓN: logeando info...
+""sep 28, 2019 11:11:47 AM util.LogUtil save
+ADVERTENCIA: codigo en prueba
+""sep 28, 2019 11:11:50 AM util.LogUtil save
+GRAVE: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+""sep 28, 2019 11:21:42 AM util.LogUtil save
+INFORMACIÓN: logeando info...
+""sep 28, 2019 11:21:42 AM util.LogUtil save
+ADVERTENCIA: codigo en prueba
+""sep 28, 2019 11:21:43 AM util.LogUtil save
+GRAVE: The server time zone value 'Hora est. PacÃ­fico, SudamÃ©r' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+""sep 28, 2019 12:06:20 PM util.LogUtil save
+INFORMACIÓN: logeando info...
+""sep 28, 2019 12:06:20 PM util.LogUtil save
+ADVERTENCIA: codigo en prueba
+""sep 28, 2019 12:06:21 PM util.LogUtil save
+GRAVE: The server time zone value 'Hora est. PacÃ­fico, SudamÃ©r' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+""sep 28, 2019 12:23:31 PM util.LogUtil save
+INFORMACIÓN: logeando info...
+""sep 28, 2019 12:23:31 PM util.LogUtil save
+ADVERTENCIA: codigo en prueba
+""sep 28, 2019 12:23:49 PM util.LogUtil save
+INFORMACIÓN: logeando info...
+""sep 28, 2019 12:23:49 PM util.LogUtil save
+ADVERTENCIA: codigo en prueba
+""sep 28, 2019 12:24:49 PM util.LogUtil save
+INFORMACIÓN: logeando info...
+""sep 28, 2019 12:24:49 PM util.LogUtil save
+ADVERTENCIA: codigo en prueba
+""sep 28, 2019 12:25:08 PM util.LogUtil save
+INFORMACIÓN: logeando info...
+""sep 28, 2019 12:25:08 PM util.LogUtil save
+ADVERTENCIA: codigo en prueba
+""sep 28, 2019 12:28:38 PM util.LogUtil save
+INFORMACIÓN: logeando info...
+""sep 28, 2019 12:28:38 PM util.LogUtil save
+ADVERTENCIA: codigo en prueba
+""sep 28, 2019 1:04:35 PM util.LogUtil save
+INFORMACIÓN: logeando info...
+""sep 28, 2019 1:04:36 PM util.LogUtil save
+ADVERTENCIA: codigo en prueba
+""sep 28, 2019 1:10:12 PM util.LogUtil save
+INFORMACIÓN: logeando info...
+""sep 28, 2019 1:10:12 PM util.LogUtil save
+ADVERTENCIA: codigo en prueba
+""sep 28, 2019 1:10:48 PM util.LogUtil save
+INFORMACIÓN: logeando info...
+""sep 28, 2019 1:10:48 PM util.LogUtil save
+ADVERTENCIA: codigo en prueba
+""sep 28, 2019 1:18:44 PM util.LogUtil save
+INFORMACIÓN: logeando info...
+""sep 28, 2019 1:18:45 PM util.LogUtil save
+ADVERTENCIA: codigo en prueba
+""sep 28, 2019 1:18:45 PM util.LogUtil save
+GRAVE: The server time zone value 'Hora est. PacÃ­fico, SudamÃ©r' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+""sep 28, 2019 1:27:16 PM util.LogUtil save
+INFORMACIÓN: logeando info...
+""sep 28, 2019 1:27:16 PM util.LogUtil save
+ADVERTENCIA: codigo en prueba
+""sep 28, 2019 1:29:46 PM util.LogUtil save
+INFORMACIÓN: logeando info...
+""sep 28, 2019 1:29:46 PM util.LogUtil save
+ADVERTENCIA: codigo en prueba
+""sep 28, 2019 1:29:46 PM util.LogUtil save
+GRAVE: The server time zone value 'Hora est. PacÃ­fico, SudamÃ©r' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+""sep 28, 2019 1:32:10 PM util.LogUtil save
+INFORMACIÓN: logeando info...
+""sep 28, 2019 1:32:10 PM util.LogUtil save
+ADVERTENCIA: codigo en prueba
+""sep 28, 2019 1:32:10 PM util.LogUtil save
+GRAVE: The server time zone value 'Hora est. PacÃ­fico, SudamÃ©r' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+""sep 28, 2019 1:38:25 PM util.LogUtil save
+INFORMACIÓN: logeando info...
+""sep 28, 2019 1:38:25 PM util.LogUtil save
+ADVERTENCIA: codigo en prueba
+""sep 28, 2019 1:38:25 PM util.LogUtil save
+GRAVE: The server time zone value 'Hora est. PacÃ­fico, SudamÃ©r' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+""sep 28, 2019 1:38:38 PM util.LogUtil save
+INFORMACIÓN: logeando info...
+""sep 28, 2019 1:38:38 PM util.LogUtil save
+ADVERTENCIA: codigo en prueba
+""sep 28, 2019 1:41:32 PM util.LogUtil save
+INFORMACIÓN: logeando info...
+""sep 28, 2019 1:41:32 PM util.LogUtil save
+ADVERTENCIA: codigo en prueba
+""sep 28, 2019 1:41:33 PM util.LogUtil save
+GRAVE: The server time zone value 'Hora est. PacÃ­fico, SudamÃ©r' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+""sep 28, 2019 1:41:45 PM util.LogUtil save
+INFORMACIÓN: logeando info...
+""sep 28, 2019 1:41:45 PM util.LogUtil save
+ADVERTENCIA: codigo en prueba
+""sep 28, 2019 1:41:45 PM util.LogUtil save
+GRAVE: The server time zone value 'Hora est. PacÃ­fico, SudamÃ©r' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+""sep 28, 2019 1:46:31 PM util.LogUtil save
+INFORMACIÓN: logeando info...
+""sep 28, 2019 1:46:31 PM util.LogUtil save
+ADVERTENCIA: codigo en prueba
+""sep 28, 2019 1:46:31 PM util.LogUtil save
+GRAVE: The server time zone value 'Hora est. PacÃ­fico, SudamÃ©r' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+""sep 28, 2019 1:47:02 PM util.LogUtil save
+INFORMACIÓN: logeando info...
+""sep 28, 2019 1:47:02 PM util.LogUtil save
+ADVERTENCIA: codigo en prueba
+""sep 28, 2019 1:47:03 PM util.LogUtil save
+GRAVE: The server time zone value 'Hora est. PacÃ­fico, SudamÃ©r' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+""sep 28, 2019 1:48:02 PM util.LogUtil save
+INFORMACIÓN: logeando info...
+""sep 28, 2019 1:48:02 PM util.LogUtil save
+ADVERTENCIA: codigo en prueba
+""sep 28, 2019 1:48:03 PM util.LogUtil save
+GRAVE: The server time zone value 'Hora est. PacÃ­fico, SudamÃ©r' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+""sep 28, 2019 1:48:13 PM util.LogUtil save
+INFORMACIÓN: logeando info...
+""sep 28, 2019 1:48:13 PM util.LogUtil save
+ADVERTENCIA: codigo en prueba
+""sep 28, 2019 1:48:13 PM util.LogUtil save
+GRAVE: The server time zone value 'Hora est. PacÃ­fico, SudamÃ©r' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+""sep 28, 2019 1:48:26 PM util.LogUtil save
+INFORMACIÓN: logeando info...
+""sep 28, 2019 1:48:26 PM util.LogUtil save
+ADVERTENCIA: codigo en prueba
+""sep 28, 2019 1:48:27 PM util.LogUtil save
+GRAVE: The server time zone value 'Hora est. PacÃ­fico, SudamÃ©r' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+""sep 28, 2019 1:49:20 PM util.LogUtil save
+INFORMACIÓN: logeando info...
+""sep 28, 2019 1:49:21 PM util.LogUtil save
+ADVERTENCIA: codigo en prueba
+""sep 28, 2019 1:50:56 PM util.LogUtil save
+INFORMACIÓN: logeando info...
+""sep 28, 2019 1:50:56 PM util.LogUtil save
+ADVERTENCIA: codigo en prueba
+""sep 28, 2019 1:51:12 PM util.LogUtil save
+INFORMACIÓN: logeando info...
+""sep 28, 2019 1:51:12 PM util.LogUtil save
+ADVERTENCIA: codigo en prueba
+""sep 28, 2019 1:54:07 PM util.LogUtil save
+INFORMACIÓN: logeando info...
+""sep 28, 2019 1:54:07 PM util.LogUtil save
+ADVERTENCIA: codigo en prueba
+""sep 28, 2019 1:54:07 PM util.LogUtil save
+GRAVE: The server time zone value 'Hora est. PacÃ­fico, SudamÃ©r' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+""sep 28, 2019 1:56:58 PM util.LogUtil save
+INFORMACIÓN: logeando info...
+""sep 28, 2019 1:56:58 PM util.LogUtil save
+ADVERTENCIA: codigo en prueba
+""sep 28, 2019 1:57:10 PM util.LogUtil save
+INFORMACIÓN: logeando info...
+""sep 28, 2019 1:57:10 PM util.LogUtil save
+ADVERTENCIA: codigo en prueba
+""sep 28, 2019 1:57:10 PM util.LogUtil save
+GRAVE: The server time zone value 'Hora est. PacÃ­fico, SudamÃ©r' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+""sep 28, 2019 6:43:33 PM util.LogUtil save
+INFORMACIÓN: logeando info...
+""sep 28, 2019 6:43:34 PM util.LogUtil save
+ADVERTENCIA: codigo en prueba
+""sep 28, 2019 6:43:34 PM util.LogUtil save
+GRAVE: The server time zone value 'Hora est. PacÃ­fico, SudamÃ©r' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+""sep 28, 2019 6:44:11 PM util.LogUtil save
+INFORMACIÓN: logeando info...
+""sep 28, 2019 6:44:11 PM util.LogUtil save
+ADVERTENCIA: codigo en prueba
+""sep 28, 2019 6:44:11 PM util.LogUtil save
+GRAVE: The server time zone value 'Hora est. PacÃ­fico, SudamÃ©r' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+""sep 28, 2019 6:45:10 PM util.LogUtil save
+INFORMACIÓN: logeando info...
+""sep 28, 2019 6:45:11 PM util.LogUtil save
+ADVERTENCIA: codigo en prueba
+""sep 28, 2019 6:45:11 PM util.LogUtil save
+GRAVE: The server time zone value 'Hora est. PacÃ­fico, SudamÃ©r' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+""sep 28, 2019 6:57:41 PM util.LogUtil save
+INFORMACIÓN: logeando info...
+""sep 28, 2019 6:57:42 PM util.LogUtil save
+ADVERTENCIA: codigo en prueba
+""sep 28, 2019 6:57:42 PM util.LogUtil save
+GRAVE: The server time zone value 'Hora est. PacÃ­fico, SudamÃ©r' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+""sep 28, 2019 7:24:24 PM util.LogUtil save
+INFORMACIÓN: logeando info...
+""sep 28, 2019 7:24:25 PM util.LogUtil save
+ADVERTENCIA: codigo en prueba
+""sep 28, 2019 7:24:25 PM util.LogUtil save
+GRAVE: The server time zone value 'Hora est. PacÃ­fico, SudamÃ©r' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+"

@@ -1,0 +1,14 @@
+handlers: "java.util.logging.ConsoleHandler, java.util.logging.FileHandler"
+
+java.util:
+  logging:
+    SimpleFormatter:
+      format: "%1$tb %1$td, %1$tY %1$tl:%1$tM:%1$tS %1$Tp %2$s%n%4$s: %5$s%n"
+    ConsoleHandler:
+      level: "ALL"
+      formatter: "java.util.logging.SimpleFormatter"
+    FileHandler:
+      level: "ALL"
+      pattern: "logfile.txt"
+      append: "true"
+      formatter: "java.util.logging.SimpleFormatter"
